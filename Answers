@@ -1,0 +1,14 @@
+Вопрос 1 . <link url="stykesheet" src="style.css">
+Вопрос 2 . alert('StartCoding');
+Вопрос 3 . <input type="button" name="OK" class="btn btn-primary">
+Вопрос 4 . <input type="radio" name="fav_language"> HTML
+<input type="radio" name="fav_language"> CSS
+Вопрос 5 . <input type="text" maxlength="40">
+Вопрос 6 . <p>Поле чтения</p>
+Вопрос 7 . let a = promt("Как называется JavaScript ?");
+if(a == "ECMAScript"){alert("Верно !");}
+else {alert("Не знаете ! ECMAScript");}
+Вопрос 8 . for(let i = 0; i <= 10; i += 2;) {alert(i)}
+Вопрос 9 . A : const table = document.getElementById('age-table');
+B : const td = table.querySelector('td:first-of-type');
+C : const form = document.querySelector('form[name="search"]');
